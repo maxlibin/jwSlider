@@ -1,1 +1,2 @@
-/***************** jQuery Slideer using Mouse wheel and click events ***********************/
+/--------------------------------------------------------*/
+/*** jQuery Slideer using Mouse wheel and click events ***/
